@@ -1,6 +1,6 @@
 # QRCode
 
-API criada como desafio do professor Alexandre Castro Junior. Utiliza as tecnologias: Javascript e NodeJS.
+API criada como desafio do professor Alexandre Castro Junior. Utiliza as tecnologias: HTML, Javascript e NodeJS.
 
 ## Instalação de Pacotes
 
