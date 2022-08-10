@@ -1,7 +1,7 @@
-<h1>QRCOde
+# QRCode
 
-  API criada como desafio do professor Alexandre Castro Junior. Utiliza as tecnologias: Javascript e NodeJS.
+API criada como desafio do professor Alexandre Castro Junior. Utiliza as tecnologias: Javascript e NodeJS.
 
-<h2>Instalação de Pacotes
+## Instalação de Pacotes
 
-  npm install qr-code-styling
+npm install qr-code-styling
